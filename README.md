@@ -10,6 +10,7 @@ Un curso increible para el curso de [Git y GitHub](http://platzi.com/clases/1557
 - El Flujo de trabajo de GitHub
 - Buenas practicas
 - Creado por el increible Ulisesgtz
+- Volviendome un experto en Git y GitHub
 
 Este es el primer **readme.rm** que hago bien.
 
