@@ -11,6 +11,7 @@ Un curso increible para el curso de [Git y GitHub](http://platzi.com/clases/1557
 - Buenas practicas
 - Creado por el increible Ulisesgtz
 - Volviendome un experto en Git y GitHub
+- Una mas por que si
 
 Este es el primer **readme.rm** que hago bien.
 
